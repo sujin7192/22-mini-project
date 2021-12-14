@@ -1,0 +1,8 @@
+/* Universal Selector */
+* {
+    margin:0;
+    padding:0;  
+  }
+  header {
+      box-sizing: content-box 500px;
+  }
