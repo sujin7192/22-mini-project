@@ -1,8 +1,22 @@
-/* Universal Selector */
-* {
-    margin:0;
-    padding:0;  
-  }
-  header {
-      box-sizing: content-box 500px;
-  }
+header{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font: red;
+}
+header{
+    border: 10px solid purple;
+    padding: 10px;
+    background-color: purple;  
+}
+header h1{
+    text-align: center;
+}
+header nav ul li{
+    list-style: none;
+    text-align: center;
+    display: inline-block;
+    text-decoration: remove underline;
+   
+   
+}
+
